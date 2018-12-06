@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/devboosts/conventional-commits/compare/v1.1.0...v1.2.0) (2018-12-06)
+
+
+### Features
+
+* **index:** added a footer ([3aca106](https://github.com/devboosts/conventional-commits/commit/3aca106)), closes [#1](https://github.com/devboosts/conventional-commits/issues/1)
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2017-03-28)
 
